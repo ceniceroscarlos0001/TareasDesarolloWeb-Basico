@@ -1,0 +1,20 @@
+*{
+    background-color: aquamarine;
+}
+.Titulo{
+    text-align: center;
+    font-style: serif;
+}
+.Subtitulo{
+    text-align: center;
+    font-style: serif;
+}
+.caja{
+    text-align: left;
+    font-style: serif;
+}
+.Textos{
+    text-align: justify;
+    font-size: large;
+    font-style: serif;
+}
