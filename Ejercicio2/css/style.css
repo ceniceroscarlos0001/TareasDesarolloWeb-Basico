@@ -1,0 +1,19 @@
+img{
+    width: 50%;
+    height: 50%;
+    
+}
+.imagen1{
+    box-shadow: 0px 0px 20px 10px;
+}
+body{
+    background-image: url("../multimedia/fondo-colores.jpg");
+}
+h1{
+    box-shadow: 0px 0px 20px 10px;
+}
+audio{
+    /* El primer valor horizontal, el segundo vertical, el tercero el tamaño y el ultimo intensidad*/
+    box-shadow: 0px 0px 20px 10px;
+    border-radius: 30px;
+}
